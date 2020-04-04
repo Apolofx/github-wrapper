@@ -16,19 +16,19 @@
 6. Generar el token.
 7. Ir al directorio del github-wrapper, y en el archivo `keys.py` reemplazar el valor del campo GITHUB_API_KEYS por el token obtenido previamente.
 
-### Agregar repositorio al PATH
+### Agregar GitHub-Wrapper al PATH
 
 #### Linux
 
 1. Abrir el archivo `.bashrc` que esta en tu `/home` (por ejemplo, `/home/tu-nombre-de-usuario/.bashrc`) en un editor de texto.
-2. Agregar `export PATH="tu-dir:$PATH"` al final del archivo, donde tu dir es el directorio donde esta guardado `repo-create.py`.
+2. Agregar `export PATH="github-wrapper-dir:$PATH"` al final del archivo, donde `github-wrapper-dir` es el directorio donde esta guardado `repo-create.py`.
 3. Guardar el archivo `.bashrc`.
 4. Reiniciar el terminal.
 
 #### Mac OS X
 
 1. Abrir el archivo `.bash_profile`que esta file en tu `/home` (por ejemplo, `Users/tu-nombre-de-usuario/.bash_profile`) en un editor de texto.
-2. Agregar `export PATH="tu-dir:$PATH"` al final del archivo, donde tu dir es el directorio donde esta guardado `repo-create.py`.
+2. Agregar `export PATH="github-wrapper-dir:$PATH"` al final del archivo, donde `github-wrapper-dir` es el directorio donde esta guardado `repo-create.py`.
 3. Guardar el archivo `.bash_profile`.
 4. Reiniciar el terminal.
 
