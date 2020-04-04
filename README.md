@@ -14,7 +14,7 @@
 4. Elegir Generate new token.
 5. Seleciconar el scope de permisos que vas a tener mediante la API.
 6. Generar el token.
-7. Ir al directorio del script, y en el archivo `keys.py` reemplazar el valor del campo GITHUB_API_KEYS por el token obtenido previamente.
+7. Ir al directorio del github-wrapper, y en el archivo `keys.py` reemplazar el valor del campo GITHUB_API_KEYS por el token obtenido previamente.
 
 ### Agregar repositorio al PATH
 
