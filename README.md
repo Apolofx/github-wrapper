@@ -49,6 +49,8 @@ El script crea un repositorio remoto en GitHub consumiendo la GitHub API con pet
 4. git commit -m 'initial commit'
 5. repo-create
 
+![](demo/demo.gif)
+
 ## TODO
 
 Agregar delete repo permission y metodo.
