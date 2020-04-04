@@ -10,10 +10,10 @@
 
 1. Ir a la seccion Settings en tu sesion de GitHub.
 2. Ir a la pestaña Developer settings en la columna de la izquierda.
-3. Seleccionar Personal acces tokens
-4. Elegir Generate new toker
+3. Seleccionar Personal acces tokens.
+4. Elegir Generate new token.
 5. Seleciconar el scope de permisos que vas a tener mediante la API.
-6. Generar el token
+6. Generar el token.
 7. Ir al directorio del script, y en el archivo `keys.py` reemplazar el valor del campo GITHUB_API_KEYS por el token obtenido previamente.
 
 ### Agregar repositorio al PATH
