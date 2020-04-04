@@ -4,7 +4,7 @@
 
 ### Clonar repo-create
 
-`git clone`
+`git clone https://github.com/Apolofx/github-wrapper.git`
 
 ### GitHub personal token
 
