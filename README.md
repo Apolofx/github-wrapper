@@ -2,7 +2,7 @@
 
 ## Configuracion inicial
 
-### Clonar repo-create
+### Clonar github-wrapper
 
 `git clone https://github.com/Apolofx/github-wrapper.git`
 
