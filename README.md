@@ -45,7 +45,7 @@ El script crea un repositorio remoto en GitHub consumiendo la GitHub API con pet
 
 1. cd ~/dir-del-proyecto/
 2. git init
-3. git add .
+3. git add . **EL DIRECTORIO DEBE CONTENER AL MENOS UN ARCHIVO**
 4. git commit -m 'initial commit'
 5. repo-create
 
