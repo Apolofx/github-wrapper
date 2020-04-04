@@ -10,12 +10,17 @@ name = input('Nombre del repositorio: \n')
 descripcion = input('Descripcion: \n')
 privacidad = input('¿Lo queres hacer privado? (y/n): \n')
 homepage = input('¿Queres agregar la homepage del proyecto? (y/n): \n')
+if homepage == 'n':
+  homepage = ''
+else:
+  homepage = input('Ingresa la URL: \n')
+
 
 if privacidad == 'n':
   privacidad = 'false'
 else:
   privacidad = 'true'
-  
+
 
 req = requests
 data = {
