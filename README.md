@@ -35,8 +35,7 @@
 ### Agregar permisos y Alias
 
 1. Dentro de la carpeta del script, corremos `chmod +x repo-create.py`
-2. En el terminal correr el comando `which python3`. Abrir el archivo `repo-create.py` en un editor, y reemplazar la primera linea `#!/usr/bin/python3.6` por `#!/tu-python3-dir`.
-3. (Opcional) Agregamos el alias para no tener que escribir `'.py'`. Abrimos nuestro `.bash_alias` y le agregamos la linea `alias repo-create='repo-create.py'`
+2. (Opcional) Agregamos el alias para no tener que escribir `'.py'`. Abrimos nuestro `.bash_alias` y le agregamos la linea `alias repo-create='repo-create.py'`
 
 ## Features
 
